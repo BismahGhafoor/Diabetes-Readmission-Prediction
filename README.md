@@ -32,7 +32,10 @@ This project is highly beneficial for several reasons:
 This project was developed and contributed to by the following individuals:
 
 - **Bismah Ghafoor** 
-- **Bashar Majed Salameh Al-Smadi** 
+- **Bashar Al-Smadi**
+- **Sheron Mathew**
+- **Rouslane Arab**
+- **Amirhossein Soltani**
 
 ## Disclaimer
 This project is part of an academic assignment and is intended solely for educational purposes. It is not meant for clinical application or real-world healthcare decision-making. The dataset used in this project is publicly available and should only be used in an academic or research context. The models developed are experimental and have not been validated for deployment in actual healthcare settings.
